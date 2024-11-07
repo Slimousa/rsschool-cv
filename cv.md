@@ -13,3 +13,4 @@ I am currently working as a project manager at ecom company. I am engaged in IT 
 ## Languages:
 * English B2
 * Russian
+* Germany
